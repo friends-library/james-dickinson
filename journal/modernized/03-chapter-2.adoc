@@ -414,6 +414,9 @@ After the meeting was over,
 a concern fell upon me to write a few lines to the yearly meeting,
 (it beginning the next day after we were to sail;) which was as follows:
 
+[.embedded-content-document.epistle]
+--
+
 [.salutation]
 Dear Friends, Brethren, Fathers and Elders,
 
@@ -445,6 +448,8 @@ Written on board, near Cowes, in the Isle of Wight, the 29th of the third month,
 
 [.signed-section-context-close]
 Let this be read in the yearly meeting.
+
+--
 
 On the 30th of the third month, we set sail on our voyage to Virginia,
 with above a hundred sail in company:
@@ -761,6 +766,9 @@ and caused several copies to be taken and sent to the said islands,
 whereby I got ease of mind.
 The Epistle is as follows:
 
+[.embedded-content-document.epistle]
+--
+
 [.salutation]
 Dear Friends,
 
@@ -877,6 +885,8 @@ Philadelphia, the 17th of the Eighth month, 1696.
 
 [.signed-section-context-close]
 Let copies of this be sent to Antigua, Nevis, and Jamaica, to be read in their meetings.
+
+--
 
 I proceeded into West Jersey, and had several meetings; then travelled,
 in company with several Friends, through the woods to East Jersey,

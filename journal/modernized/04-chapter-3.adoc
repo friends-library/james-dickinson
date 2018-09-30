@@ -1,10 +1,14 @@
 == Chapter III.
 
-Visit to Ireland--Epistle to Friends in America--Visits to Scotland,
-and Some Parts of England--His Sickness--Further Religious Service in England, Scotland,
-and Ireland--His Third Visit to America--Religious
-Engagements in Various Parts of England,
-Scotland, and Ireland--His Last Illness and Death.
+[.chapter-synopsis]
+* Visit to Ireland
+* Epistle to Friends in America
+* Visits to Scotland, and Some Parts of England
+* His Sickness
+* Further Religious Service in England, Scotland, and Ireland
+* His Third Visit to America
+* Religious Engagements in Various Parts of England, Scotland, and Ireland
+* His Last Illness and Death
 
 In the year 1698, a concern was upon me to visit Friends in Ireland.
 I took shipping on the 5th of the ninth month; but meeting with a contrary wind,
@@ -126,6 +130,9 @@ staid some time, and was very diligent in attending meetings.
 which is not inserted either in the MS or the former edition of this Journal,
 is recorded in Gough's History of Friends.]
 
+[.embedded-content-document.epistle]
+--
+
 [.signed-section-context-open]
 Rogerscale, near Pardshaw, 27th of First month, 1699.
 
@@ -161,8 +168,9 @@ and will draw the affections heavenwards, and to seek those things that are abov
 so will the Lord bless you every way, both inwardly and outwardly;
 and your table will never become a trap and a snare to you.
 
-Treasure the advice given of old, "`Trust not in uncertain riches,
-but in the living God;`" and then he will abundantly bless
+Treasure the advice given of old,
+"`Trust not in uncertain riches, but in the living God;`"
+and then he will abundantly bless
 those parts of the world where it is your lot to dwell;
 he will be as a wall of fire round about you,
 and make your enemies to be at peace with you.
@@ -204,6 +212,8 @@ and remain your friend and brother in the holy Truth.
 
 [.signed-section-signature]
 James Dickinson.
+
+--
 
 In the forepart of the year 1699, I had drawings in my mind to visit Friends in Scotland,
 and proceeded on that service in company with Jonathan Burnyeat,^
