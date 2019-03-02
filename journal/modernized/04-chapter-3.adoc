@@ -73,7 +73,7 @@ So we kept the meeting without doors, although it was in the depth of winter;
 and the Lord favoured us with his living presence,
 and enabled us to preach the gospel unto the people.
 Several were convinced, and many well affected, who said, "`Though men envied us,
-yet the Lord favoured us.`" 
+yet the Lord favoured us.`"
 
 From there we travelled towards Londonderry; lodged at an inn,
 and had a comfortable meeting that evening.
@@ -127,9 +127,8 @@ staid some time, and was very diligent in attending meetings.
 
 [.offset]
 +++[+++The following Epistle to Friends in America,
-which is not inserted either in the MS or the former edition of this Journal,
+which is not inserted either in the manuscript or the former edition of this Journal,
 is recorded in Gough`'s History of Friends.]
-//What is MS on line 130? The editor pointed it out.  Is there a way to clarify?
 
 [.embedded-content-document.epistle]
 --
@@ -517,7 +516,7 @@ and the men were taken and punished by the magistrates.
 After I was clear of my service in that nation, I returned to Dublin,
 took shipping for Whitehaven, landed safe, went home and found my family well.
 
-On the 17th of the ninth month, 1702.
+On the 17th of the ninth month, 1702,
 I had a concern upon me to visit Friends in the west of England, as far as Exeter;
 so took my journey, and travelled through several counties.
 The Lord favoured me with his living power,
@@ -895,7 +894,8 @@ we laboured in the love of God, to settle them upon Christ, the Rock and Foundat
 After which, finding our spirits fully clear, we concluded to take shipping for England.
 There being a ship bound for London, we agreed for our passage;
 went on board on the 10th of the twelfth month, 1714, and on the 17th of the same,
-weighed anchor, and came out of the capes of Virginia and had a good passage till we came near the coasts of Ireland,
+weighed anchor, and came out of the capes of Virginia.
+We had a good passage till we came near the coasts of Ireland,
 where we met with a small ship bound for Cork:
 we left the ship we were in and went on board the small vessel.
 Afterwards we met with a contrary wind, and were seven days at sea;
@@ -964,7 +964,7 @@ left their meeting and returned to Friends again.
 My travail among them was,
 __That all might be baptised down, as into the bottom of Jordan,
 there to be purged from their uncleanness; and so be fitted for the camp of God,
-and know him to tabernacle with them.__ 
+and know him to tabernacle with them.__
 The Lord`'s power was manifested among us, to the comfort of all who truly loved it.
 Then I travelled to Newbury; and through Wiltshire to Bristol.
 My exercise was,

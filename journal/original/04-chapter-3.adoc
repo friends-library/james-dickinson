@@ -128,7 +128,7 @@ staid some time, and was very diligent in attending meetings.
 
 [.offset]
 +++[+++The following Epistle to Friends in America,
-which is not inserted either in the MS or the former edition of this Journal,
+which is not inserted either in the manuscript or the former edition of this Journal,
 is recorded in Gough`'s History of Friends.]
 
 [.embedded-content-document.epistle]
@@ -230,7 +230,7 @@ on the 5th of the third month, 1709,`" in the twenty-third year of his age.
 These dates, etc., of his birth and decease,
 are copied from the registers of Pardshaw monthly meeting.
 {footnote-paragraph-split}
- The editor regrets that he has not been able
+The editor regrets that he has not been able
 to find further particulars respecting this extraordinary youth:
 when his age is considered,
 in connection with what is here said of him by James Dickinson
@@ -315,7 +315,7 @@ and upon serious search I found nothing but peace,
 and that I had got my day`'s work done so far.
 My eye was unto the Lord Jesus, in whom my justification remained; and I found peace,
 and his words true by experience,
-"`In me ye shall have peace, but in the world tribulation.`" 
+"`In me ye shall have peace, but in the world tribulation.`"
 The sense of it at that time was very comfortable,
 and engaged me to be given up to follow him faithfully unto the end;
 for it is those that are faithful unto death, that will receive a crown of life.
@@ -516,7 +516,7 @@ and the men were taken and punished by the magistrates.
 After I was clear of my service in that nation, I returned to Dublin,
 took shipping for Whitehaven, landed safe, went home and found my family well.
 
-On the 17th of the ninth month, 1702.
+On the 17th of the ninth month, 1702,
 I had a concern upon me to visit Friends in the west of England, as far as Exeter;
 so took my journey, and travelled through several counties.
 The Lord favoured me with his living power,
@@ -894,8 +894,8 @@ we laboured in the love of God, to settle them upon Christ, the Rock and Foundat
 After which, finding our spirits fully clear, we concluded to take shipping for England.
 There being a ship bound for London, we agreed for our passage;
 went on board on the 10th of the twelfth month, 1714, and on the 17th of the same,
-weighed anchor, and came out of the capes of Virginia and
-had a good passage till we came near the coasts of Ireland,
+weighed anchor, and came out of the capes of Virginia.
+We had a good passage till we came near the coasts of Ireland,
 where we met with a small ship bound for Cork:
 we left the ship we were in and went on board the small vessel.
 Afterwards we met with a contrary wind, and were seven days at sea;
@@ -961,7 +961,7 @@ At Reading, Friends were under a great exercise with a rending, dividing spirit,
 that many were betrayed into; yet the Lord`'s power came over them,
 and they who had gone out into separation,
 left their meeting and returned to Friends again.
-My travail among them was, 
+My travail among them was,
 __That all might be baptised down, as into the bottom of Jordan,
 there to be purged from their uncleanness; and so be fitted for the camp of God,
 and know him to tabernacle with them.__
