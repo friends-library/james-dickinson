@@ -123,6 +123,9 @@ Concerning which terms of grace, spirit and light,
 for the sake of such who may be strangers to this doctrine,
 a few Scripture testimonies are subjoined, viz:
 
+[.numbered-group]
+====
+
 [.numbered]
 1st, Under the term grace:
 "`By grace are ye saved through faith.`"--Eph. 2:8. God`'s "`grace
@@ -175,6 +178,8 @@ and to which all who have known the sufficiency of it, do direct all: "`And now,
 brethren, I commend you to God, and to the word of his grace,
 which is able to build you up,
 and to give you an inheritance among all them which are sanctified.`"--Acts 20:32.
+
+====
 
 To God only wise, who is glorified in his saints, and preserves, through all,
 to his heavenly kingdom such who put their trust in him, be dominion and thanks,
