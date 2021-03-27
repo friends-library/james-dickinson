@@ -1,4 +1,4 @@
-[#pardshaw-testimony.style-blurb, short="Testimony of Pardshaw Meeting"]
+[.style-blurb, short="Testimony of Pardshaw Meeting"]
 == The Testimony of Pardshaw monthly meeting concerning our worthy Friend, James Dickinson, deceased.
 
 James Dickinson of Greentrees (otherwise Moorside,) belonging to Pardshaw meeting,

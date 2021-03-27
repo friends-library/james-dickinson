@@ -1,4 +1,4 @@
-[#bell-testimony.style-blurb, short="Testimony of John Bell"]
+[.style-blurb, short="Testimony of John Bell"]
 == The Testimony of John Bell, to the memory of our worthy Friend, James Dickinson, deceased.
 
 Reader, you are, with this,
